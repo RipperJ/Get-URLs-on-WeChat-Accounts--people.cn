@@ -1,6 +1,8 @@
 # Get-URLs-on-WeChat-Accounts--people.cn
 获取人民日报公众号推文标题和链接
 
+## Contents
+Results_BB -- 2019/08/15-2019/10/31 共约880条推文标题及链接
 
 ## 工具
 ### Anyproxy
