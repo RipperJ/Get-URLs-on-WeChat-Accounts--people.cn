@@ -46,4 +46,4 @@ https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=[***]==&scene=123#wech
 
 7. 在历史记录里面不停翻页，则可以在AnyProxy里面通过筛选“action=getmsg”找到翻页后刷新的新推文，AnyProxy里面每条记录会对应10篇因为一次刷新会get10篇文章。（建议找个物理外挂办法滑动滚轮，或者模拟滚轮事件，不然很费手指头）
 
-8. 从每条记录-response-preview里面可以看到json，复制到http://www.bejson.com/里面“格式化校验”，然后处理里面的list就行了。
+8. 从每条记录-response-preview里面可以看到json，复制到http://www.bejson.com/ 里面“格式化校验”，然后处理里面的list就行了。
